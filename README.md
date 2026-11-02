@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/danilo-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=DaniloSreis&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=danilo-sreis&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
@@ -33,5 +33,5 @@ Outside of work, I'm studying Multiplatform Software Development at Fatec Diadem
 ## GitHub stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniloSreis&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=danilo-sreis&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak"/>
 </div>
